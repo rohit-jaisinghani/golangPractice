@@ -6,7 +6,7 @@ import (
 )
 
 func main(){
-	//fetchandpull
+	//fetchandpullpractice
 	str:="ac1%%$23c"
 	var b bool=true
 	for _,c:=range str{
